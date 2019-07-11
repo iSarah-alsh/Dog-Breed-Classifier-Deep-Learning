@@ -10,8 +10,14 @@ For Example:
 # Project Instruction:
 ## Instructions
 1. Clone the repository and navigate to the downloaded folder.
+```
+git clone https://github.com/iSarah-alsh/Dog-Breed-Classifier-Deep-Learning.git
+cd Dog-Breed-Classifier-Deep-Learning
 
-2. Open the Dog-breed Classifier_EN.ipynb(English Version)file. also you can find HTML version of the file.
+```
+
+2. Open the dog_app.ipynb file. also you can find HTML version of the file.
+`jupyter notebook dog_app.ipynb`
 
 3. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the notebook to download them.
 
@@ -42,7 +48,8 @@ is a convolutional Neural Network model that achieves 92.7% accuracy in ImageNet
 - Classifier function:
 - 3 FC layers at the top of the network.
 
-![Uploading modified_vgg16.jpg…]()
+<img width="653" alt="Screen Shot 2019-07-11 at 2 33 35 AM" src="https://user-images.githubusercontent.com/46428156/61091865-78a41600-a44c-11e9-92a8-2fc3f9476ac0.png">
+
 Image Resource: https://www3.cs.stonybrook.edu/~zekzhang/cnn_classifier.html
 
 ## Dataset:
