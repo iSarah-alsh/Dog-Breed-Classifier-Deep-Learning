@@ -17,7 +17,9 @@ cd Dog-Breed-Classifier-Deep-Learning
 ```
 
 2. Open the dog_app.ipynb file. also you can find HTML version of the file.
-`jupyter notebook dog_app.ipynb`
+```
+jupyter notebook dog_app.ipynb
+```
 
 3. Read and follow the instructions! This repository doesn't include any dataset you need. You can check out the notebook to download them.
 
